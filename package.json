@@ -1,0 +1,11 @@
+{
+  "name": "dona_cuca",
+  "version": "1.0.0",
+  "description": "Dona cuca recipes - Mis recetas de cocina 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Daniel Lopez",
+  "license": "ISC"
+}
